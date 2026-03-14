@@ -1,0 +1,123 @@
+{
+    "1144253701989609483": {
+        "wallet": 1000871970469,
+        "last_daily": 1773272723.5408888,
+        "last_work": 1773352276.589595,
+        "last_mine": 1773272735.5264804,
+        "affiliate": null,
+        "affiliate_earnings": 100000,
+        "coins_donated": 1851,
+        "redeemed_codes": [
+            "10MEM"
+        ]
+    },
+    "1460338239599542549": {
+        "wallet": 173230339019,
+        "last_daily": 1773273822.319071,
+        "last_work": 1773275179.2904248,
+        "last_mine": 1773274222.8857434,
+        "affiliate": null,
+        "affiliate_earnings": 2000,
+        "coins_donated": 18311558947805
+    },
+    "1280871487515131924": {
+        "wallet": 6666731,
+        "last_daily": 1773448985.1052933,
+        "last_work": 0,
+        "last_mine": 0,
+        "affiliate": null,
+        "affiliate_earnings": 0,
+        "coins_donated": 0
+    },
+    "865728774594494464": {
+        "wallet": 1000000,
+        "last_daily": 1773276986.7602117,
+        "last_work": 1773277087.273277,
+        "last_mine": 0,
+        "affiliate": null,
+        "affiliate_earnings": 0,
+        "coins_donated": 1500
+    },
+    "invites": {
+        "T6jURAgtc": 1,
+        "j8ActDd6Q": 3,
+        "jvpDjW6a": 0,
+        "6uVUSewXe": 0,
+        "kcwyDGwga": 0,
+        "nTCSnBFT": 1,
+        "6FZYDFuC": 1,
+        "jCRuy6aRw": 0,
+        "4SKXvetvAA": 0,
+        "hGupqaMMX": 0,
+        "fkdJgwNBhz": 0,
+        "wJhbbpps": 0
+    },
+    "1234731424750506014": {
+        "wallet": 743150,
+        "last_daily": 1773342450.015334,
+        "last_work": 1773342307.6161764,
+        "last_mine": 0,
+        "affiliate": null,
+        "affiliate_earnings": 0,
+        "coins_donated": 1002383,
+        "redeemed_codes": [
+            "GAMBLE000"
+        ]
+    },
+    "1115399303234596875": {
+        "wallet": 7267433,
+        "last_daily": 1773451169.723192,
+        "last_work": 1773357043.4109957,
+        "last_mine": 0,
+        "affiliate": null,
+        "affiliate_earnings": 0,
+        "coins_donated": 5676767891767,
+        "redeemed_codes": [
+            "GAMBLE000",
+            "10MEM"
+        ]
+    },
+    "1436890614146007061": {
+        "wallet": 1000000,
+        "last_daily": 0,
+        "last_work": 0,
+        "last_mine": 0,
+        "affiliate": null,
+        "affiliate_earnings": 0,
+        "coins_donated": 0
+    },
+    "1399090025735389285": {
+        "wallet": 145008,
+        "last_daily": 0,
+        "last_work": 0,
+        "last_mine": 0,
+        "affiliate": null,
+        "affiliate_earnings": 0,
+        "coins_donated": 0,
+        "redeemed_codes": [
+            "10MEM"
+        ]
+    },
+    "1269976466008051713": {
+        "wallet": 270503721,
+        "last_daily": 1773375983.20245,
+        "last_work": 1773375988.0904663,
+        "last_mine": 0,
+        "affiliate": null,
+        "affiliate_earnings": 0,
+        "coins_donated": 26001000000,
+        "redeemed_codes": [
+            "10MEM",
+            "GAMBLE000"
+        ]
+    },
+    "1084995668621410434": {
+        "wallet": 144560,
+        "last_daily": 0,
+        "last_work": 0,
+        "last_mine": 0,
+        "affiliate": null,
+        "affiliate_earnings": 0,
+        "coins_donated": 10000
+    }
+}
