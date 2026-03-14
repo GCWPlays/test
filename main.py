@@ -6,7 +6,7 @@ import random
 import time
 import os
 
-TOKEN = ""
+TOKEN = os.getenv("TOKEN")
 
 DATA_FILE = "data.json"
 
